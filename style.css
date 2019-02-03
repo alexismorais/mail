@@ -1,0 +1,68 @@
+#Connexion{
+	text-align:center;
+	border:solid;		
+	border-color:grey;
+	padding-top:0.5%;
+	padding-bottom:0.5%;
+	margin-bottom:5px;
+}
+#divDest {
+	float:left;
+	width:20%
+}
+#divMessage {
+	float:right;
+	width:75%;
+}
+#btnEnvoyer
+{
+	float:right;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+#gauche {
+	float:left;
+	width:30%;
+	padding:1%;
+
+}
+#droite {
+	float:right;
+	width:55%;
+	border:solid;
+	border-color:navy;
+	background-color:white;
+	height:75%;
+	padding-left:5%;
+	padding-right:5%;
+}
+#croix{
+	float:right;
+	color:white;
+	text-decoration:none;
+	background-color:red;
+	padding-right:5px;
+	padding-left:5px;
+}
+#listeMail{
+	float:left;
+	text-decoration:none;
+	color:black;
+}
+ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	width:100%;
+}
+li{			
+	width:100%;
+	margin:1%;
+}
+html{
+	font-family:calibri;
+	background-color:silver;
+}
+
+		
+		
